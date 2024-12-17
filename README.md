@@ -63,4 +63,4 @@
 		de esta manera obtendremos el HandShake, que usaremos con aircrack-ng.	
 
 
-									Sugerencias o dudas, consultar @MklMP.![Uploading Screenshot at 2024-12-16 18-31-19.png…]()
+						Sugerencias o dudas, consultar @MklMP
