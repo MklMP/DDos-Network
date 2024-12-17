@@ -1,0 +1,69 @@
+IN-USE  BSSID              SSID             MODE   CHAN  RATE        SIGNAL  BARS  SECURITY 
+        62:18:4C:A9:3A:5C  Infinix HOT 40i  Infra  9     135 Mbit/s  20      ▂___  WPA2     
+        C6:79:1C:C2:D7:14  Wiki124          Infra  6     117 Mbit/s  17      ▂___  WPA2     
+        6E:F0:6C:64:AF:63  --               Infra  11    65 Mbit/s   17      ▂___  WPA2     
+IN-USE  BSSID              SSID             MODE   CHAN  RATE        SIGNAL  BARS  SECURITY 
+        7A:FD:8C:C5:7F:09  DelfieroEsManco  Infra  1     117 Mbit/s  37      ▂▄__  --       
+        C6:79:1C:C2:D7:14  Wiki124          Infra  6     117 Mbit/s  30      ▂___  WPA2     
+        8A:29:9C:B2:CB:B9  AndroidAPCBB9    Infra  11    65 Mbit/s   17      ▂___  WPA2     
+        98:48:27:E7:9C:A7  135-301          Infra  11    130 Mbit/s  15      ▂___  WPA2     
+IN-USE  BSSID  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+IN-USE  BSSID              SSID                        MODE   CHAN  RATE        SIGNAL  BARS  SECURITY 
+        98:48:27:E7:9C:A7  135-301                     Infra  1     270 Mbit/s  20      ▂___  WPA2     
+        8A:29:9C:B2:CB:B9  AndroidAPCBB9               Infra  6     65 Mbit/s   17      ▂___  WPA2     
+        4A:E6:D6:4B:4A:8D  Samsung Galaxy A51 5G 8116  Infra  11    65 Mbit/s   15      ▂___  WPA2     
+IN-USE  BSSID              SSID               MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+        8A:29:9C:B2:CB:B9  AndroidAPCBB9      Infra  6     65 Mbit/s   17      ▂___  WPA2      
+        86:81:3F:11:52:7B  realme C53         Infra  9     135 Mbit/s  15      ▂___  WPA2      
+        46:67:33:48:2F:7C  Redmi Note 12 Pro  Infra  1     117 Mbit/s  12      ▂___  WPA2 WPA3 
+IN-USE  BSSID              SSID               MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+        8A:29:9C:B2:CB:B9  AndroidAPCBB9      Infra  6     65 Mbit/s   27      ▂___  WPA2      
+        98:48:27:E7:9C:A7  135-301            Infra  1     270 Mbit/s  20      ▂___  WPA2      
+        46:67:33:48:2F:7C  Redmi Note 12 Pro  Infra  1     117 Mbit/s  14      ▂___  WPA2 WPA3 
+        86:81:3F:11:52:7B  realme C53         Infra  9     135 Mbit/s  10      ▂___  WPA2      
+IN-USE  BSSID              SSID           MODE   CHAN  RATE        SIGNAL  BARS  SECURITY 
+        8A:29:9C:B2:CB:B9  AndroidAPCBB9  Infra  6     65 Mbit/s   25      ▂___  WPA2     
+        98:48:27:E7:9C:A7  135-301        Infra  1     270 Mbit/s  22      ▂___  WPA2     
+IN-USE  BSSID              SSID     MODE   CHAN  RATE        SIGNAL  BARS  SECURITY 
+        98:48:27:E7:9C:A7  135-301  Infra  1     270 Mbit/s  19      ▂___  WPA2     
+IN-USE  BSSID              SSID               MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+        98:48:27:E7:9C:A7  135-301            Infra  1     270 Mbit/s  24      ▂___  WPA2      
+        6E:6B:62:F5:0A:BA  SHostpot0          Infra  1     117 Mbit/s  17      ▂___  --        
+        8A:29:9C:B2:CB:B9  AndroidAPCBB9      Infra  6     65 Mbit/s   17      ▂___  WPA2      
+        E2:90:5A:EE:6C:D7  (*)                Infra  6     130 Mbit/s  14      ▂___  WPA2      
+        46:67:33:48:2F:7C  Redmi Note 12 Pro  Infra  1     117 Mbit/s  12      ▂___  WPA2 WPA3 
+        86:81:3F:11:52:7B  realme C53         Infra  9     135 Mbit/s  9       ▂___  WPA2      
+IN-USE  BSSID              SSID           MODE   CHAN  RATE        SIGNAL  BARS  SECURITY 
+        98:48:27:E7:9C:A7  135-301        Infra  1     270 Mbit/s  19      ▂___  WPA2     
+        8A:29:9C:B2:CB:B9  AndroidAPCBB9  Infra  6     65 Mbit/s   19      ▂___  WPA2     
+IN-USE  BSSID              SSID     MODE   CHAN  RATE        SIGNAL  BARS  SECURITY 
+        98:48:27:E7:9C:A7  135-301  Infra  1     270 Mbit/s  20      ▂___  WPA2     
+IN-USE  BSSID  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+IN-USE  BSSID              SSID                        MODE   CHAN  RATE        SIGNAL  BARS  SECURITY  
+        98:48:27:E7:9C:A7  135-301                     Infra  1     270 Mbit/s  22      ▂___  WPA2      
+        46:67:33:48:2F:7C  Redmi Note 12 Pro           Infra  1     117 Mbit/s  15      ▂___  WPA2 WPA3 
+        4A:E6:D6:4B:4A:8D  Samsung Galaxy A51 5G 8116  Infra  11    65 Mbit/s   14      ▂___  WPA2      
+        8A:29:9C:B2:CB:B9  AndroidAPCBB9               Infra  6     65 Mbit/s   12      ▂___  WPA2      
+IN-USE  BSSID              SSID            MODE   CHAN  RATE        SIGNAL  BARS  SECURITY 
+        8A:29:9C:B2:CB:B9  AndroidAPCBB9   Infra  11    65 Mbit/s   20      ▂___  WPA2     
+        96:D3:12:9A:BE:8E  K9NOJA          Infra  11    65 Mbit/s   17      ▂___  WPA2     
+        B2:72:BF:8E:E3:8C  Rino0nte de mc  Infra  11    130 Mbit/s  15      ▂___  WPA2     
+IN-USE  BSSID              SSID       MODE   CHAN  RATE        SIGNAL  BARS  SECURITY 
+        72:00:1B:26:39:CB  --         Infra  6     130 Mbit/s  30      ▂___  WPA2     
+        3A:E2:43:86:D1:0A  Alcatel 3  Infra  11    117 Mbit/s  22      ▂___  WPA2     
+        98:48:27:E7:9C:A7  135-301    Infra  1     270 Mbit/s  14      ▂___  WPA2     
+IN-USE  BSSID  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+IN-USE  BSSID  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+IN-USE  BSSID              SSID             MODE   CHAN  RATE        SIGNAL  BARS  SECURITY 
+        6A:32:5F:77:64:17  Galaxy S10e33bc  Infra  6     130 Mbit/s  15      ▂___  WPA2     
+IN-USE  BSSID  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+IN-USE  BSSID              SSID                   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       08:1A:1E:3B:E2:78  CLOUDCAM_081a1e3be278  Infra  4     65 Mbit/s  35      ▂▄__  --       
+IN-USE  BSSID              SSID                   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       08:1A:1E:3B:E2:78  CLOUDCAM_081a1e3be278  Infra  4     65 Mbit/s  43      ▂▄__  --       
+        08:1A:1E:96:95:BA  CLOUDCAM_081a1e9695ba  Infra  4     65 Mbit/s  20      ▂___  --       
+IN-USE  BSSID              SSID                   MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*       08:1A:1E:3B:E2:78  CLOUDCAM_081a1e3be278  Infra  4     65 Mbit/s  43      ▂▄__  --       
+        08:1A:1E:96:95:BA  CLOUDCAM_081a1e9695ba  Infra  4     65 Mbit/s  14      ▂___  --       
+IN-USE  BSSID  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+IN-USE  BSSID  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
